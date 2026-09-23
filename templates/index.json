@@ -36,6 +36,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify://shop_images/Aura_Banner.jpg",
         "image_overlay_opacity": 40,
         "image_height": "small",
         "image_behavior": "none",
